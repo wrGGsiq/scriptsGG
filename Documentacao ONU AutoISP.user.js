@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Documentacao ONU AutoISP
-// @version      0.1
+// @version      0.2
 // @description  Extrai as informações da ONU no AUTOISP automaticamnete.
 // @author       Wesley GG
 // @match        https://autoisp.gegnet.com.br/contracted_services/*
+// @match        https://autoisp.gegnet.com.br/gpon_clients/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gegnet.com.br
 // @grant        GM_setClipboard
 // ==/UserScript==
