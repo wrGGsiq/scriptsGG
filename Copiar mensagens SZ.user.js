@@ -5,6 +5,7 @@
 // @description  Copiar mensagens do chat do SZ para a área de transferência
 // @author       Wesley GG
 // @match        https://ggnet.sz.chat/*
+// @match        https://aowintele.sz.chat/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sz.chat
 // @license      MIT
 // @downloadURL  https://github.com/wrGGsiq/scriptsGG/raw/main/Copiar%20mensagens%20SZ.user.js
