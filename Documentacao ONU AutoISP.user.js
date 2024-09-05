@@ -6,6 +6,8 @@
 // @match        https://autoisp.gegnet.com.br/contracted_services/*
 // @match        https://autoisp.gegnet.com.br/gpon_clients/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gegnet.com.br
+// @downloadURL  
+// @uploadURL    
 // @grant        GM_setClipboard
 // @run-at       document-idle
 // ==/UserScript==
