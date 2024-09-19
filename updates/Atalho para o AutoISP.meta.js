@@ -6,5 +6,5 @@
 // @author       Matheus Eger
 // @match        https://integrator6.gegnet.com.br/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gegnet.com.br
-// @grant        none
+// @grant        GM_setClipboard
 // ==/UserScript==
