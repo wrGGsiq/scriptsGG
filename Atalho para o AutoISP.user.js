@@ -6,7 +6,7 @@
 // @author       Matheus Eger
 // @match        https://integrator6.gegnet.com.br/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gegnet.com.br
-// @downloadURL  https://github.com/wrGGsiq/scriptsGG/raw/main/Atalho%20para%20o%20AutoISP.meta.js
+// @downloadURL  https://github.com/wrGGsiq/scriptsGG/raw/main/Atalho%20para%20o%20AutoISP.user.js
 // @updateURL    https://github.com/wrGGsiq/scriptsGG/raw/main/updates/Atalho%20para%20o%20AutoISP.meta.js
 // @grant        GM_setClipboard
 // ==/UserScript==
