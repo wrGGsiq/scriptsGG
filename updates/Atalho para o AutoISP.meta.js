@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Atalho para o AutoISP
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Adiciona um botão de atalho no topo da lista com URL do AutoISP
 // @author       Matheus Eger
 // @match        https://integrator6.gegnet.com.br/*
