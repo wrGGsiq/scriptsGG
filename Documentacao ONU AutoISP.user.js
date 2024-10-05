@@ -2,7 +2,7 @@
 // @name         Documentacao ONU AutoISP
 // @version      0.9
 // @description  Extrai as informações da ONU no AUTOISP automaticamnete.
-// @author       Max
+// @author       Maxwell Couto
 // @match        https://autoisp.gegnet.com.br/contracted_services/*
 // @match        https://autoisp.gegnet.com.br/gpon_clients/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gegnet.com.br
