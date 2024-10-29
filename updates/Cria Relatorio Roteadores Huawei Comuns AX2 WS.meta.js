@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cria Relatorio Roteadores Huawei Comuns AX2 WS
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  try to take over the world!
 // @author       Wesley GG
 // @match        https://*/html/index.html
@@ -11,5 +11,4 @@
 // @updateURL    https://github.com/wrGGsiq/scriptsGG/raw/main/Cria%20Relatorio%20Roteadores%20Huawei%20Comuns%20AX2%20WS-0.4.user.js
 // @grant        GM_setClipboard
 // @grant        GM_xmlhttpRequest
-// @connect      https://sol-da-meia-noite-361c5.web.app/c29sLWRhLW1laWEtbm9pdGUK.json
 // ==/UserScript==
