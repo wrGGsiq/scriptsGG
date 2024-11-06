@@ -5,6 +5,8 @@
 // @author       Wesley GG
 // @match        https://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gegnet.com.br
+// @updateURL    https://github.com/wrGGsiq/scriptsGG/raw/refs/heads/main/Documenta%20ONT.user.js
+// @downloadURL  https://github.com/wrGGsiq/scriptsGG/raw/refs/heads/main/Documenta%20ONT.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_log
 // @grant        window.close
