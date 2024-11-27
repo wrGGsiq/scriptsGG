@@ -48,3 +48,10 @@ Método 2: Instalar via GitHub:
 6. Cole o código do script que você copiou anteriormente na janela do editor (Ctrl + V).
 7. Clique no ícone de disquete (ou em "Salvar") para salvar o script.
 8. Feche a janela do editor.
+
+
+
+
+A GGNET Telecomunicações Ltda. busca atender à Lei Geral de Proteção de Dados, para tanto coletamos os dados necessários ao seu atendimento. E, daremos continuidade mediante sua ciência conforme política de privacidade disponível no site: 🌐 [https://www.gegnet.com.br/politicas](https://www.gegnet.com.br/politicas).
+
+Por favor, poderia me fornecer o seu CPF ou CNPJ para que eu possa dar continuidade ao seu atendimento?
